@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">p1_conversor_divisas</string>
+    <string name="pesos_colombianos">COP</string>
+    <string name="Euros">EUR</string>
+    <string name="dolares">USD</string>
+    <string name="yuanes">CNY</string>
+    <string name="dolar_canadiense">CAD</string>
+    <string name="bolivar_venezolano">VEF</string>
+    <string name="titulo">CONVERSOR DE DIVISAS</string>
+    <string name="valor">Valor a convertir</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="todo">TODO</string>
+    <string name="Libra_esterlina">GBP</string>
+</resources>
